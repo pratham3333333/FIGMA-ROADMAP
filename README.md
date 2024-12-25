@@ -249,7 +249,7 @@ Today, we covered essential steps for user research and designing user flows and
 
 For any questions, feel free to reach out to:
 
-- **Vijay Dubey** | Email: vijay@example.com
+- **Pratham Dubey** | Email: prathamdubey03@gmail.com
 
 ---
 
